@@ -10,6 +10,8 @@ import java.lang.reflect.Method;
  * @date 2021/1/15 9:39
  */
 public class TestA {
+
+    // add A
     public int count = 5;
 
     private TestA() {

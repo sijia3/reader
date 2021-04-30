@@ -12,8 +12,6 @@ import java.lang.reflect.Method;
 public class TestA {
 
     // add A
-    // add B
-    // add C
 
     public int count = 5;
 
